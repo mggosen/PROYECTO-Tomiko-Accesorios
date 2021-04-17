@@ -1,0 +1,42 @@
+C:\Users\Lenovo\Desktop\Procesamiento de datos\PROYECTO FINAL\PROYECTO Tomiko Accesorios\PROYECTO Tomiko Accesorios\bin\Debug\PROYECTO Tomiko Accesorios.exe.config
+C:\Users\Lenovo\Desktop\Procesamiento de datos\PROYECTO FINAL\PROYECTO Tomiko Accesorios\PROYECTO Tomiko Accesorios\bin\Debug\PROYECTO Tomiko Accesorios.exe
+C:\Users\Lenovo\Desktop\Procesamiento de datos\PROYECTO FINAL\PROYECTO Tomiko Accesorios\PROYECTO Tomiko Accesorios\bin\Debug\PROYECTO Tomiko Accesorios.pdb
+C:\Users\Lenovo\Desktop\Procesamiento de datos\PROYECTO FINAL\PROYECTO Tomiko Accesorios\PROYECTO Tomiko Accesorios\bin\Debug\PROYECTO Tomiko Accesorios.xml
+C:\Users\Lenovo\Desktop\Procesamiento de datos\PROYECTO FINAL\PROYECTO Tomiko Accesorios\PROYECTO Tomiko Accesorios\obj\Debug\PROYECTO Tomiko Accesorios.vbprojAssemblyReference.cache
+C:\Users\Lenovo\Desktop\Procesamiento de datos\PROYECTO FINAL\PROYECTO Tomiko Accesorios\PROYECTO Tomiko Accesorios\obj\Debug\PROYECTO_Tomiko_Accesorios.FAccesorios.resources
+C:\Users\Lenovo\Desktop\Procesamiento de datos\PROYECTO FINAL\PROYECTO Tomiko Accesorios\PROYECTO Tomiko Accesorios\obj\Debug\PROYECTO_Tomiko_Accesorios.FPedidos.resources
+C:\Users\Lenovo\Desktop\Procesamiento de datos\PROYECTO FINAL\PROYECTO Tomiko Accesorios\PROYECTO Tomiko Accesorios\obj\Debug\PROYECTO_Tomiko_Accesorios.Resources.resources
+C:\Users\Lenovo\Desktop\Procesamiento de datos\PROYECTO FINAL\PROYECTO Tomiko Accesorios\PROYECTO Tomiko Accesorios\obj\Debug\PROYECTO Tomiko Accesorios.vbproj.GenerateResource.cache
+C:\Users\Lenovo\Desktop\Procesamiento de datos\PROYECTO FINAL\PROYECTO Tomiko Accesorios\PROYECTO Tomiko Accesorios\obj\Debug\PROYECTO Tomiko Accesorios.vbproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\Procesamiento de datos\PROYECTO FINAL\PROYECTO Tomiko Accesorios\PROYECTO Tomiko Accesorios\obj\Debug\PROYECTO Tomiko Accesorios.exe
+C:\Users\Lenovo\Desktop\Procesamiento de datos\PROYECTO FINAL\PROYECTO Tomiko Accesorios\PROYECTO Tomiko Accesorios\obj\Debug\PROYECTO Tomiko Accesorios.xml
+C:\Users\Lenovo\Desktop\Procesamiento de datos\PROYECTO FINAL\PROYECTO Tomiko Accesorios\PROYECTO Tomiko Accesorios\obj\Debug\PROYECTO Tomiko Accesorios.pdb
+C:\Users\Lenovo\Desktop\Procesamiento de datos\PROYECTO FINAL\PROYECTO Tomiko Accesorios\PROYECTO Tomiko Accesorios\obj\Debug\PROYECTO_Tomiko_Accesorios.FormAcercaDe.resources
+F:\Procesamiento de datos\PROYECTO FINAL\PROYECTO Tomiko Accesorios\PROYECTO Tomiko Accesorios\bin\Debug\PROYECTO Tomiko Accesorios.exe.config
+F:\Procesamiento de datos\PROYECTO FINAL\PROYECTO Tomiko Accesorios\PROYECTO Tomiko Accesorios\bin\Debug\PROYECTO Tomiko Accesorios.exe
+F:\Procesamiento de datos\PROYECTO FINAL\PROYECTO Tomiko Accesorios\PROYECTO Tomiko Accesorios\bin\Debug\PROYECTO Tomiko Accesorios.pdb
+F:\Procesamiento de datos\PROYECTO FINAL\PROYECTO Tomiko Accesorios\PROYECTO Tomiko Accesorios\bin\Debug\PROYECTO Tomiko Accesorios.xml
+F:\Procesamiento de datos\PROYECTO FINAL\PROYECTO Tomiko Accesorios\PROYECTO Tomiko Accesorios\obj\Debug\PROYECTO Tomiko Accesorios.vbprojAssemblyReference.cache
+F:\Procesamiento de datos\PROYECTO FINAL\PROYECTO Tomiko Accesorios\PROYECTO Tomiko Accesorios\obj\Debug\PROYECTO_Tomiko_Accesorios.FAccesorios.resources
+F:\Procesamiento de datos\PROYECTO FINAL\PROYECTO Tomiko Accesorios\PROYECTO Tomiko Accesorios\obj\Debug\PROYECTO_Tomiko_Accesorios.FPedidos.resources
+F:\Procesamiento de datos\PROYECTO FINAL\PROYECTO Tomiko Accesorios\PROYECTO Tomiko Accesorios\obj\Debug\PROYECTO_Tomiko_Accesorios.FormAcercaDe.resources
+F:\Procesamiento de datos\PROYECTO FINAL\PROYECTO Tomiko Accesorios\PROYECTO Tomiko Accesorios\obj\Debug\PROYECTO_Tomiko_Accesorios.Resources.resources
+F:\Procesamiento de datos\PROYECTO FINAL\PROYECTO Tomiko Accesorios\PROYECTO Tomiko Accesorios\obj\Debug\PROYECTO Tomiko Accesorios.vbproj.GenerateResource.cache
+F:\Procesamiento de datos\PROYECTO FINAL\PROYECTO Tomiko Accesorios\PROYECTO Tomiko Accesorios\obj\Debug\PROYECTO Tomiko Accesorios.vbproj.CoreCompileInputs.cache
+F:\Procesamiento de datos\PROYECTO FINAL\PROYECTO Tomiko Accesorios\PROYECTO Tomiko Accesorios\obj\Debug\PROYECTO Tomiko Accesorios.exe
+F:\Procesamiento de datos\PROYECTO FINAL\PROYECTO Tomiko Accesorios\PROYECTO Tomiko Accesorios\obj\Debug\PROYECTO Tomiko Accesorios.xml
+F:\Procesamiento de datos\PROYECTO FINAL\PROYECTO Tomiko Accesorios\PROYECTO Tomiko Accesorios\obj\Debug\PROYECTO Tomiko Accesorios.pdb
+C:\Users\Lenovo\OneDrive\Escritorio\PROYECTO FINAL\PROYECTO Tomiko Accesorios\PROYECTO Tomiko Accesorios\bin\Debug\PROYECTO Tomiko Accesorios.exe.config
+C:\Users\Lenovo\OneDrive\Escritorio\PROYECTO FINAL\PROYECTO Tomiko Accesorios\PROYECTO Tomiko Accesorios\bin\Debug\PROYECTO Tomiko Accesorios.exe
+C:\Users\Lenovo\OneDrive\Escritorio\PROYECTO FINAL\PROYECTO Tomiko Accesorios\PROYECTO Tomiko Accesorios\bin\Debug\PROYECTO Tomiko Accesorios.pdb
+C:\Users\Lenovo\OneDrive\Escritorio\PROYECTO FINAL\PROYECTO Tomiko Accesorios\PROYECTO Tomiko Accesorios\bin\Debug\PROYECTO Tomiko Accesorios.xml
+C:\Users\Lenovo\OneDrive\Escritorio\PROYECTO FINAL\PROYECTO Tomiko Accesorios\PROYECTO Tomiko Accesorios\obj\Debug\PROYECTO Tomiko Accesorios.vbprojAssemblyReference.cache
+C:\Users\Lenovo\OneDrive\Escritorio\PROYECTO FINAL\PROYECTO Tomiko Accesorios\PROYECTO Tomiko Accesorios\obj\Debug\PROYECTO_Tomiko_Accesorios.FAccesorios.resources
+C:\Users\Lenovo\OneDrive\Escritorio\PROYECTO FINAL\PROYECTO Tomiko Accesorios\PROYECTO Tomiko Accesorios\obj\Debug\PROYECTO_Tomiko_Accesorios.FPedidos.resources
+C:\Users\Lenovo\OneDrive\Escritorio\PROYECTO FINAL\PROYECTO Tomiko Accesorios\PROYECTO Tomiko Accesorios\obj\Debug\PROYECTO_Tomiko_Accesorios.FormAcercaDe.resources
+C:\Users\Lenovo\OneDrive\Escritorio\PROYECTO FINAL\PROYECTO Tomiko Accesorios\PROYECTO Tomiko Accesorios\obj\Debug\PROYECTO_Tomiko_Accesorios.Resources.resources
+C:\Users\Lenovo\OneDrive\Escritorio\PROYECTO FINAL\PROYECTO Tomiko Accesorios\PROYECTO Tomiko Accesorios\obj\Debug\PROYECTO Tomiko Accesorios.vbproj.GenerateResource.cache
+C:\Users\Lenovo\OneDrive\Escritorio\PROYECTO FINAL\PROYECTO Tomiko Accesorios\PROYECTO Tomiko Accesorios\obj\Debug\PROYECTO Tomiko Accesorios.vbproj.CoreCompileInputs.cache
+C:\Users\Lenovo\OneDrive\Escritorio\PROYECTO FINAL\PROYECTO Tomiko Accesorios\PROYECTO Tomiko Accesorios\obj\Debug\PROYECTO Tomiko Accesorios.exe
+C:\Users\Lenovo\OneDrive\Escritorio\PROYECTO FINAL\PROYECTO Tomiko Accesorios\PROYECTO Tomiko Accesorios\obj\Debug\PROYECTO Tomiko Accesorios.xml
+C:\Users\Lenovo\OneDrive\Escritorio\PROYECTO FINAL\PROYECTO Tomiko Accesorios\PROYECTO Tomiko Accesorios\obj\Debug\PROYECTO Tomiko Accesorios.pdb
